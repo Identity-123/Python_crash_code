@@ -1,0 +1,5 @@
+print("Hello world \nThis is votey aka hacker123qw")
+print("Netwon's first Law of Motion")
+print("a\tb\tc")
+print("My name is sudo. I have a youtube channel name \"Code WIth Coffee\"")
+print("\\ Code with Coffee\\")
